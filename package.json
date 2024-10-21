@@ -1,0 +1,22 @@
+{
+  "name": "africhange-regression-2.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@testing-library/cypress": "^10.0.2",
+    "cypress": "^13.14.2",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "cypress-fill-command": "^1.0.2",
+    "cypress-real-events": "^1.13.0",
+    "pg": "^8.13.0"
+  }
+}
